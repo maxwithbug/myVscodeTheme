@@ -3,6 +3,18 @@
   "displayName": "neo-Sp",
   "description": "This team is inspired from neovim . from this team, you",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxwithbug/myVscodeTheme?tab=readme-ov-file"
+  },
+  "keywords": [
+    "dark theme",
+    "neovim",
+    "neovim theme",
+    "nvim",
+    "color theme",
+    "theme"
+  ],
   "engines": {
     "vscode": "^1.89.0"
   },
