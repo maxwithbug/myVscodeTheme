@@ -1,8 +1,9 @@
 {
-  "name": "neo-Sp",
-  "displayName": "neo-Sp",
+  "name": "neovim-Sp",
+  "displayName": "neovim-Sp",
   "description": "This team is inspired from neovim . from this team, you",
   "version": "0.0.1",
+  "publisher": "suman-pakira",
   "repository": {
     "type": "git",
     "url": "https://github.com/maxwithbug/myVscodeTheme?tab=readme-ov-file"
