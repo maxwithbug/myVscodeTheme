@@ -1,0 +1,24 @@
+{
+  "name": "neo-Sp",
+  "displayName": "neo-Sp",
+  "description": "This team is inspired from neovim . from this team, you",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "neo-Sp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neo-Sp-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
+}
