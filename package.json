@@ -3,7 +3,7 @@
   "displayName": "Neovim.SP",
   "description": "This team is inspired from neovim . from this team, you",
   "version": "1.1.0",
-  "icon": "/neo-Sp/assets/OIG (100).jpeg",
+  "icon": "/assets/OIG (100).jpeg",
   "publisher": "suman-pakira",
   "repository": {
     "type": "git",
