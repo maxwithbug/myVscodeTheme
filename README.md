@@ -15,10 +15,16 @@ Customizable Elegance: Neovim.SP offers a range of customization options to tail
 Join the Dark Side: Experience the power and elegance of a dark theme with [Your Theme Name]. Download it today and discover a whole new way to code with focus and style!
 <br />
 <br />
-<img width="1792" alt="Screenshot 2024-05-07 at 7 45 38 AM" src="https://github.com/maxwithbug/myVscodeTheme/assets/121168928/74718b65-e129-4f25-b683-5f54f82f3fc8">
+<h1>Java Script</h1>
+<img width="1792" alt="Screenshot 2024-05-07 at 9 08 03 AM" src="https://github.com/maxwithbug/myVscodeTheme/assets/121168928/487c0861-638f-4636-bc4c-2e86c29f4a36">
 <br />
 <br />
-<img width="1324" alt="Screenshot 2024-05-06 at 1 58 24 PM" src="https://github.com/maxwithbug/myVscodeTheme/assets/121168928/c98ee061-2c58-40e7-9e69-a8325c582b1a">
+<h1>Css</h1>
+<img width="1792" alt="Screenshot 2024-05-07 at 9 12 03 AM" src="https://github.com/maxwithbug/myVscodeTheme/assets/121168928/630730f3-db52-406c-9f73-dc0bb015343c">
+<br />
+<br />
+<h1>Html</h1>
+<img width="1792" alt="Screenshot 2024-05-07 at 9 11 54 AM" src="https://github.com/maxwithbug/myVscodeTheme/assets/121168928/ad7332a9-5655-4145-88d9-33b5a4b2388c">
 
-
+have fun guys👋🏻
 
