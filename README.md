@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 <h1>This theme is best for Macbook's</h1>
+=======
+<h1>Best for Macbooks</h1>
+>>>>>>> 4d67d0814b7a61157159cd9b8d0d32089bf95414
 This team is inspired from neovim . from this theme, you can expect eye soothing experience. The theme is created by Suman Pakira from India
 <br />
 <br />
